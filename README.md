@@ -21,12 +21,8 @@ Welcome to my GitHub! 🌟 I'm an aspiring data scientist, passionate about lear
 
 ---
 
-## 🌟 Featured Work  
+  
 
-![Data Science Banner](https://via.placeholder.com/1000x300.png?text=Your+Data+Science+Image+Here)  
-_This section can be updated with your personal projects and achievements._  
-
----
 
 ## 📫 Let's Connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/mojtaba-fayyaz-01300b159)  
