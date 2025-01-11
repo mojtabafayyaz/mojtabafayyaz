@@ -21,7 +21,7 @@
 
 ## 📈 Mojtaba Fayyaz's Contribution Graph
 
-![Mojtaba Fayyaz's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mojtabafayyaz&theme=react-dark&hide_border=true&area=true)
+![Mojtaba Fayyaz's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mojtabafayyaz&theme=react-dark&hide_border=true&area=true)
 
 ---
 
@@ -55,14 +55,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojtabafayyaz&show_icons=true&theme=radical)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mojtabafayyaz&theme=radical)
-
----
-
-## 📝 Latest Blog Posts
-
-- [How to Build Effective Machine Learning Pipelines]
-- [Top Python Libraries for Data Science]
-- [My Journey into AI and Machine Learning]
 
 ---
 
